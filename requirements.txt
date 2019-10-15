@@ -1,0 +1,7 @@
+Cython
+opencv-python==3.2.0.6
+easydict==1.6
+pyyaml
+Pillow
+scipy
+dill
