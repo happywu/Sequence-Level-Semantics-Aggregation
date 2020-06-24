@@ -58,8 +58,8 @@ sh init.sh
 	./data/ILSVRC2015/ImageSets
 	```
 
-2. Please download ImageNet pre-trained [ResNet-v1-101](https://1dv.alarge.space/resnet_v1_101-0000.params) model and 
-our pretrained [SELSA ResNet-101](https://1dv.alarge.space/selsa_rcnn_vid-0000.params) model manually, and put it under folder `./model`. Make sure it looks like this:
+2. Please download ImageNet pre-trained [ResNet-v1-101](https://1dv.aflat.top/resnet_v1_101-0000.params) model and 
+our pretrained [SELSA ResNet-101](https://1dv.aflat.top/selsa_rcnn_vid-0000.params) model manually, and put it under folder `./model`. Make sure it looks like this:
 	```
 	./model/pretrained_model/resnet_v1_101-0000.params
 	./model/pretrained_model/selsa_rcnn_vid-0000.params
