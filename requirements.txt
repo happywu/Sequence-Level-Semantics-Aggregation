@@ -1,5 +1,5 @@
 Cython
-opencv-python==3.2.0.6
+opencv-python==3.4.7.28
 easydict==1.6
 pyyaml
 Pillow
