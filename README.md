@@ -83,7 +83,10 @@ You should get the results as reported before.
     ```
     python experiments/selsa/test.py --cfg experiments/selsa/cfgs/resnet_v1_101_rcnn_selsa_aug.yaml
     ```
-	
+
+## Other implementations
+Pytorch: [MMTracking](https://github.com/open-mmlab/mmtracking/tree/master/configs/vid/selsa)
+
 ## Acknowledge
 This repo is modified from [*Flow-Guided-Feature-Aggregation*](https://github.com/msracver/Flow-Guided-Feature-Aggregation).
 
